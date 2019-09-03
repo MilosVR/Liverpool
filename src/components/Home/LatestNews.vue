@@ -50,7 +50,7 @@
         <div class="league_table">
             <h2>League Table</h2>
             <table>
-                <tr>
+                <tr class="table_title">
                     <th>Team</th>
                     <th>P</th>
                     <th>Pts</th>
@@ -171,21 +171,24 @@ h2{
             border-collapse: collapse;
              border: 1px solid #333;
             td, th {
-                // border: 1px solid #333;
+                border: 1px solid #333;
                 text-align: left;
-                // padding: 8px;
+                padding: 8px;
             }
         }
+        .table_title{
+            background: #333 !important;
+            color: #fff !important;
+        }
         tr {
-            
-            // &:nth-child(even){
-            //     background: #333;
-            //     color: #d3d3d3;
-            // };
-            // &:nth-child(odd){
-            //     background: crimson;
-            //     color: #fff;
-            // }
+            &:nth-child(even){
+                background:#fff;
+                color: #333;
+            };
+            &:nth-child(odd){
+                background: #d3d3d3;
+                color: #333;
+            }
         }
     }
 }
