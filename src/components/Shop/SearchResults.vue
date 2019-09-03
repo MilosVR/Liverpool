@@ -4,7 +4,7 @@
     <div class="search_results_inner">
         
         <div class="search_results_description">
-            <h2>Search results for "{{ term }}"</h2>
+            <h2 class="search_results_title">Search results for <span>"{{ term }}"</span></h2>
             <h4>{{ searcResults.length }} results found</h4>
         </div>
         
@@ -71,7 +71,14 @@ export default {
         grid-template-columns: 1fr !important;
     }
 }
-
+@media only screen and(max-width:500px){
+    .search_results_title{
+        font-size: 1rem !important;
+        span{
+            color: crimson;
+        }
+    }
+}
 .search_results{
     width: 100%;
     height: 100%;

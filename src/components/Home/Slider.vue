@@ -199,6 +199,21 @@ export default {
       right: 10rem !important;  
   }
 }
+@media only screen and(max-width: 500px){
+  .commercial_banner{
+    img{
+      &:nth-child(1){
+        width: 100% !important;
+      }
+    }
+  }
+  .arrow_left{
+      left: 7rem !important;
+  }
+  .arrow_right{
+      right: 7rem !important;  
+  }
+}
   .slider{
     position: relative;
     width: 1280px;

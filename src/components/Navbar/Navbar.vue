@@ -136,6 +136,19 @@ export default {
         }
     }
 }
+@media only screen and (max-width: 500px){
+    .logo{
+        height: 40px !important;
+        top: .6rem;
+        left: -1rem !important;
+    }
+
+    .link{
+        padding: 1rem 1rem 1rem 8rem !important;
+    }
+}
+
+
     .link{
         i{
             display: none;

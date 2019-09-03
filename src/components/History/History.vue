@@ -249,12 +249,43 @@ export default {
     }
   }
 }
+
+@media only screen and (max-width:500px) {
+  .logo{
+    display: none;
+  }
+  .main_links{
+    width: auto !important; 
+  }
+  .history_inner_desc{
+    div{
+      font-size: 2rem !important;
+      padding: 0 !important;
+      h1{
+        &:nth-child(1){
+          margin-bottom: -2rem !important;
+        }
+      }
+    }
+    p{
+      margin-left: 5rem !important;
+      text-align: right !important;
+      margin-top: 1rem;
+    }
+    h4{
+      margin-left: 0rem !important;
+      font-size: 1.2rem !important;
+    }
+  }
+}
+
+
 .history_menu_wraper{
   position: relative;
 }
 .history_menu{
   position: absolute;
-  right: 0.2rem;
+  right: 0.1rem;
   z-index: 100;
   top: 4rem;
   transform: translate3d(0px, -450px, 0px);
@@ -591,13 +622,13 @@ export default {
     }
     .history_banner{
       position: relative;
-      height: 150px;
       background: #333;
       padding: 1.5rem;
       border-bottom: 1px solid #fff;
       img{ 
-        width: 80%;
+        width: 100%;
         height: 100%;
+        object-fit: contain;
         top: 0;
         left: 0;
       }

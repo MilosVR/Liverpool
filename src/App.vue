@@ -19,6 +19,16 @@ export default {
 
 <style lang="scss">
 
+
+@media only screen and(max-width: 500px){
+  .lfcgo_banner{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    margin: 0 !important;
+  }
+}
+
 $bg-image: url('/assets/body_background.jpg') center center no-repeat;
 
 #app {

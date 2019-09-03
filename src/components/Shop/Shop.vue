@@ -44,11 +44,7 @@
               </div>
             </div>
           </div>
-          <button v-show="showResetBtn"
-            @click="resetFilter" 
-            class="reset_filter_btn"
-            >Reset filter
-          </button>
+          
         </div>
 
         <div class="shop_right">
@@ -59,13 +55,20 @@
            
         
           <div class="custom_input">
+
+            <button v-show="showResetBtn"
+              @click="resetFilter" 
+              class="reset_filter_btn"
+              >Reset filter
+            </button>
+
             <input id="filter_select"
               type="text" 
               :value='selectValue' 
               readonly="true"
               >
             <router-link to='/favorite'>
-              <button> 
+              <button class="favorite_btn"> 
                 Favorite ({{ this.$store.state.favorite.length }}) 
               </button>
             </router-link>
@@ -293,7 +296,24 @@ export default {
      display: none !important;
    }
 }
-
+@media only screen and(max-width:500px){
+  .live_it{
+    display: none;
+  }
+  .custom_input{
+    width: 100% !important;
+    padding: .5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .show_input_menu{
+      left: 1.5rem !important;
+    }
+    .favorite_btn{
+      padding: 0 .4rem !important;
+    }
+  }
+}
   .shop{
     width: 100%;
     height: 100%;
@@ -306,6 +326,7 @@ export default {
       color: #fff;
       width: 1280px;
       margin: 0 auto;
+      position: relative;
       label{
         padding-right: 1rem;
         font-weight: 600;
@@ -502,7 +523,10 @@ export default {
         }
       }
     }
-    button{
+    .reset_filter_btn{
+
+    }
+    .favorite_btn{
       height: 40px;
       padding: .5rem 1.5rem;
       outline: none;

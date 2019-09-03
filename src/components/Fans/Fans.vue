@@ -216,6 +216,38 @@ export default {
       width: 60% !important;
     }
   }
+  @media only screen and (max-width: 450px) {
+    .fans_head_text{
+      font-size: 2.2rem !important;
+    }
+    .fans_body{
+      div{
+        &:nth-child(1){
+          padding: 1rem !important;
+        }
+      }
+    }
+    .fans_body1{
+      div{
+        &:nth-child(1){
+          padding: 1rem !important;
+        }
+      }
+    }
+    .fans_body2{
+      div{
+        &:nth-child(1){
+          padding: 1rem !important;
+        }
+      }
+    }
+    .fans_head{
+      height: 400px !important;
+    }
+    .fans_head_text{
+      font-size: 2rem !important;
+    }
+  }
 
 
   .fans_page{
@@ -255,7 +287,7 @@ export default {
         width: 40%;
         text-align: left;
         position: absolute;
-        height: 100%;
+        
         font-size: 4rem;
         left: 3rem;
         top: 2rem;
