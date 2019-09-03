@@ -1,29 +1,66 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view />
+   <router-view></router-view>
   </div>
 </template>
 
+<script>
+
+import Home from './components/Home.vue'
+import Navbar from './components/Navbar/Navbar'
+
+export default {
+  components: {
+    Home,
+    Navbar
+  }
+}
+</script>
+
 <style lang="scss">
+
+$bg-image: url('/assets/body_background.jpg') center center no-repeat;
+
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  background: $bg-image;
+  width: 100%;
+  height: 100vh;
+  overflow: scroll;
+  box-shadow: 0px 2px 13px -2px rgba(0,0,0,0.75);
 }
-#nav {
-  padding: 30px;
+
+  body{
+    padding:0;
+    margin: 0;
+    
+  }
+  *{
+    box-sizing: border-box;
+  }
+  ul{
+    padding: 0;
+    margin: 0;
+  }
+  li{
+    list-style: none;
+  }
+  h1, h2, h3, h4, h5{
+    padding: 0;
+    margin: 0;
+  }
+  p{
+    padding: 0;
+    margin:0;
+  }
   a {
-    font-weight: bold;
-    color: #2c3e50;
+    text-decoration: none;
     &.router-link-exact-active {
       color: #42b983;
     }
-  }
 }
 </style>

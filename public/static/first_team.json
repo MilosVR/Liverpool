@@ -1,0 +1,245 @@
+[
+    {
+        "name": "Alisson Becker",
+        "profileImg":"/assets/players/alisson.png",
+        "coverImg":"/assets/players/alissonCover.jpg",
+        "position":"Goalkeeper",
+        "nationality":"Brazilian",
+        "dateOfBirth":"2 Oct 1992",
+        "number":"1"
+    },
+    {
+        "name": "Nathaniel Clyne",
+        "profileImg":"/assets/players/clyne.png",
+        "coverImg":"/assets/players/clyneCover.jpg",
+        "position":"Defender",
+        "nationality":"English",
+        "dateOfBirth":"5 Apr 1991",
+        "number":"2"
+    },
+    {
+        "name": "Andy Robertson",
+        "profileImg":"/assets/players/robertson.png",
+        "coverImg":"/assets/players/robertsonCover.jpg",
+        "position":"Defender",
+        "nationality":"English",
+        "dateOfBirth":"5 Apr 1991",
+        "number":"26"
+    },
+    {
+        "name": "Sepp Van-Der Berg",
+        "profileImg":"/assets/players/berg.png",
+        "coverImg":"/assets/players/bergCover.jpg",
+        "position":"Defender",
+        "nationality":"Dutch",
+        "dateOfBirth":"5 Apr 1991",
+        "number":"72"
+    },
+    {
+        "name": "Fabinho",
+        "profileImg":"/assets/players/fabinho.png",
+        "coverImg":"/assets/players/fabinhoCover.jpg",
+        "position":"Defender",
+        "nationality":"Brazilian",
+        "dateOfBirth":"23 Oct 1993",
+        "number":"3"
+    },
+    {
+        "name": "Virgil Van-Dijk",
+        "profileImg":"/assets/players/dijk.png",
+        "coverImg":"/assets/players/dijkCover.jpg",
+        "position":"Defender",
+        "nationality":"Dutch",
+        "dateOfBirth":"8 Jul 1991",
+        "number":"4"
+    },
+    {
+        "name": "Georginio Wijnaldum",
+        "profileImg":"/assets/players/wijnaldum.png",
+        "coverImg":"/assets/players/wijnaldumCover.jpg",
+        "position":"Midfielder",
+        "nationality":"Dutch",
+        "dateOfBirth":"11 Nov 1990",
+        "number":"5"
+    },
+    {
+        "name": "Rayan Kent",
+        "profileImg":"/assets/players/kent.png",
+        "coverImg":"/assets/players/kentCover.jpg",
+        "position":"Midfielder",
+        "nationality":"English",
+        "dateOfBirth":"11 Nov 1990",
+        "number":"40"
+    },
+    {
+        "name": "Courtis Jones",
+        "profileImg":"/assets/players/jones.png",
+        "coverImg":"/assets/players/jonesCover.jpg",
+        "position":"Midfielder",
+        "nationality":"English",
+        "dateOfBirth":"11 Nov 1990",
+        "number":"48"
+    },
+    {
+        "name": "Rhian Brewster",
+        "profileImg":"/assets/players/brewster.png",
+        "coverImg":"/assets/players/brewsterCover.jpg",
+        "position":"Midfielder",
+        "nationality":"English",
+        "dateOfBirth":"11 Nov 1990",
+        "number":"24"
+    },
+    {
+        "name": "James Milner",
+        "profileImg":"/assets/players/milner.png",
+        "coverImg":"/assets/players/milnerCover.jpg",
+        "position":"Midfielder",
+        "nationality":"English",
+        "dateOfBirth":"4 Jan 1996",
+        "number":"7"
+    },
+    {
+        "name": "Naby  Kaita",
+        "profileImg":"/assets/players/keita.png",
+        "coverImg":"/assets/players/keitaCover.jpg",
+        "position":"Midfielder",
+        "nationality":"Guinean",
+        "dateOfBirth":"10 Feb 1995",
+        "number":"8"
+    },
+    {
+        "name": "Roberto Firmino",
+        "profileImg":"/assets/players/firmino.png",
+        "coverImg":"/assets/players/firminoCover.jpg",
+        "position":"Forward",
+        "nationality":"Brazilian",
+        "dateOfBirth":"2 Oct 1991",
+        "number":"9"
+    },
+    {
+        "name": "Sadio Mane",
+        "profileImg":"/assets/players/mane.png",
+        "coverImg":"/assets/players/maneCover.jpg",
+        "position":"Forward",
+        "nationality":"Senegalese",
+        "dateOfBirth":"10 Apr 1992",
+        "number":"10"
+    },
+    {
+        "name": "Mohamed Salah",
+        "profileImg":"/assets/players/salah.png",
+        "coverImg":"/assets/players/salahCover.jpg",
+        "position":"Forward",
+        "nationality":"Egyptian",
+        "dateOfBirth":"15 Jan 1990",
+        "number":"11"
+    },
+    {
+        "name": "Joe Gomez",
+        "profileImg":"/assets/players/gomez.png",
+        "coverImg":"/assets/players/gomezCover.jpg",
+        "position":"Defender",
+        "nationality":"English",
+        "dateOfBirth":"23 May 1997",
+        "number":"12"
+    },
+    {
+        "name": "Adrian",
+        "profileImg":"/assets/players/adrian.png",
+        "coverImg":"/assets/players/adrianCover.jpg",
+        "position":"Goalkeeper",
+        "nationality":"Spanish",
+        "dateOfBirth":"3 Jan 1987",
+        "number":"13"
+    },
+    {
+        "name": "Jordan Henderson",
+        "profileImg":"/assets/players/henderson.png",
+        "coverImg":"/assets/players/hendersonCover.jpg",
+        "position":"Midfielder",
+        "nationality":"English",
+        "dateOfBirth":"17 Jan 1990",
+        "number":"14"
+    },
+    {
+        "name": "Alex Oxlade-Chamberlain",
+        "profileImg":"/assets/players/chamberlain.png",
+        "coverImg":"/assets/players/chamberlainCover.jpg",
+        "position":"Midfielder",
+        "nationality":"English",
+        "dateOfBirth":"15 Avg 1993",
+        "number":"15"
+    },
+    {
+        "name": "Adam Lallana",
+        "profileImg":"/assets/players/lallana.png",
+        "coverImg":"/assets/players/lallanaCover.jpg",
+        "position":"Midfielder",
+        "nationality":"English",
+        "dateOfBirth":"10 May 1988",
+        "number":"20"
+    },
+    {
+        "name": "Divock Origi",
+        "profileImg":"/assets/players/origi.png",
+        "coverImg":"/assets/players/origiCover.jpg",
+        "position":"Forward",
+        "nationality":"Dutch",
+        "dateOfBirth":"18 Apr 1995",
+        "number":"27"
+    },
+    {
+        "name": "Joel Matip",
+        "profileImg":"/assets/players/matip.png",
+        "coverImg":"/assets/players/matipCover.jpg",
+        "position":"Defender",
+        "nationality":"Cameroonian",
+        "dateOfBirth":"8 Aug 1991",
+        "number":"32"
+    },
+    {
+        "name": "Trent Alexander-Arnold",
+        "profileImg":"/assets/players/arnold.png",
+        "coverImg":"/assets/players/arnoldCover.jpg",
+        "position":"Defender",
+        "nationality":"English",
+        "dateOfBirth":"7 Oct 1998",
+        "number":"66"
+    },
+    {
+        "name": "Marko Grujic",
+        "profileImg":"/assets/players/grujic.png",
+        "coverImg":"/assets/players/grujicCover.jpg",
+        "position":"Midfielder",
+        "nationality":"Serbian",
+        "dateOfBirth":"7 Oct 1998",
+        "number":"16"
+    },
+    {
+        "name": "Ovie Ejaria",
+        "profileImg":"/assets/players/ejaria.png",
+        "coverImg":"/assets/players/ejariaCover.jpg",
+        "position":"Defender",
+        "nationality":"English",
+        "dateOfBirth":"7 Oct 1998",
+        "number":"53"
+    },
+    {
+        "name": "Sheyi Ojo",
+        "profileImg":"/assets/players/ojo.png",
+        "coverImg":"/assets/players/ojoCover.jpg",
+        "position":"Forward",
+        "nationality":"English",
+        "dateOfBirth":"7 Oct 1998",
+        "number":"54"
+    },
+    {
+        "name": "Harry Wilson",
+        "profileImg":"/assets/players/wilson.png",
+        "coverImg":"/assets/players/wilsonCover.jpg",
+        "position":"Forward",
+        "nationality":"English",
+        "dateOfBirth":"7 Oct 1998",
+        "number":"59"
+    }
+]

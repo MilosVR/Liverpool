@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Alisson Becker",
+        "profileImg":"/assets/players/alisson.png",
+        "position":"Goalkeeper",
+        "nationality":"Brazilian",
+        "dateOfBirth":"2 Oct 1992",
+        "number":"1"
+    },
+    {
+        "name": "Nathaniel Clyne",
+        "profileImg":"/assets/players/clyne.png",
+        "position":"Defender",
+        "nationality":"English",
+        "dateOfBirth":"5 Apr 1991",
+        "number":"2"
+    },
+    {
+        "name": "Fabinho",
+        "profileImg":"/assets/players/fabinho.png",
+        "position":"Defender",
+        "nationality":"Brazilian",
+        "dateOfBirth":"23 Oct 1993",
+        "number":"3"
+    },
+    {
+        "name": "Virgil van Dijk",
+        "profileImg":"/assets/players/dijk.png",
+        "position":"Defender",
+        "nationality":"Dutch",
+        "dateOfBirth":"8 Jul 1991",
+        "number":"4"
+    },
+    {
+        "name": "Georginio Wijnaldum",
+        "profileImg":"/assets/players/wijnaldum.png",
+        "position":"Midfielder",
+        "nationality":"Dutch",
+        "dateOfBirth":"11 Nov 1990",
+        "number":"5"
+    },
+    {
+        "name": "James Milner",
+        "profileImg":"/assets/players/milner.png",
+        "position":"Midfielder",
+        "nationality":"English",
+        "dateOfBirth":"4 Jan 1996",
+        "number":"7"
+    },
+    {
+        "name": "Naby  Kaita",
+        "profileImg":"/assets/players/keita.png",
+        "position":"Midfielder",
+        "nationality":"Guinean",
+        "dateOfBirth":"10 Feb 1995",
+        "number":"8"
+    },
+    {
+        "name": "Roberto Firmino",
+        "profileImg":"/assets/players/firmino.png",
+        "position":"Forward",
+        "nationality":"Brazilian",
+        "dateOfBirth":"2 Oct 1991",
+        "number":"9"
+    },
+    {
+        "name": "Sadio Mane",
+        "profileImg":"/assets/players/mane.png",
+        "position":"Forward",
+        "nationality":"Senegalese",
+        "dateOfBirth":"10 Apr 1992",
+        "number":"10"
+    },
+    {
+        "name": "Mohamed Salah",
+        "profileImg":"/assets/players/salah.png",
+        "position":"Forward",
+        "nationality":"Egyptian",
+        "dateOfBirth":"15 Jan 1990",
+        "number":"11"
+    },
+    {
+        "name": "Joe Gomez",
+        "profileImg":"/assets/players/gomez.png",
+        "position":"Defender",
+        "nationality":"English",
+        "dateOfBirth":"23 May 1997",
+        "number":"12"
+    },
+    {
+        "name": "Adrian",
+        "profileImg":"/assets/players/adrian.png",
+        "position":"Goalkeeper",
+        "nationality":"Spanish",
+        "dateOfBirth":"3 Jan 1987",
+        "number":"13"
+    },
+    {
+        "name": "Jordan Henderson",
+        "profileImg":"/assets/players/henderson.png",
+        "position":"Midfielder",
+        "nationality":"English",
+        "dateOfBirth":"17 Jan 1990",
+        "number":"14"
+    },
+    {
+        "name": "Alex Oxlade-Chamberlain",
+        "profileImg":"/assets/players/chamberlain.png",
+        "position":"Midfielder",
+        "nationality":"English",
+        "dateOfBirth":"15 Avg 1993",
+        "number":"15"
+    },
+    {
+        "name": "Adam Lallana",
+        "profileImg":"/assets/players/lallana.png",
+        "position":"Midfielder",
+        "nationality":"English",
+        "dateOfBirth":"10 May 1988",
+        "number":"20"
+    },
+    {
+        "name": "Divock Origi",
+        "profileImg":"/assets/players/origi.png",
+        "position":"Forward",
+        "nationality":"Dutch",
+        "dateOfBirth":"18 Apr 1995",
+        "number":"27"
+    },
+    {
+        "name": "Joel Matip",
+        "profileImg":"/assets/players/matip.png",
+        "position":"Defender",
+        "nationality":"Cameroonian",
+        "dateOfBirth":"8 Aug 1991",
+        "number":"32"
+    },
+    {
+        "name": "Trent Alexander-Arnoldm",
+        "profileImg":"/assets/players/arnold.png",
+        "position":"Defender",
+        "nationality":"English",
+        "dateOfBirth":"7 Oct 1998",
+        "number":"66"
+    }
+]
